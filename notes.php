@@ -40,7 +40,7 @@ if (file_exists($plik)) {
         body { font-family: Arial, sans-serif; margin: 40px; }
         textarea { width: 100%; height: 80px; }
         button { padding: 10px 20px; margin-top: 10px; }
-        .komunikat { margin: 15px 0; color: green; }
+        .komunikat { margin: 15px 0; color: red; }
         .notatki { margin-top: 20px; }
         .notatka { margin-bottom: 5px; }
     </style>
